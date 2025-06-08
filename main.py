@@ -32,9 +32,6 @@ def parse_message(text):
 
 Tanggal, Pair, Posisi, Lot, Entry, TP, SL, Close, Hasil, Catatan
 
-Contoh:
-
-2025-06-07, XAU/USD, Buy, 0.01, 2350.0, 2360.0, 2340.0, 2355.0, Profit, Entry sesuai setup"""
     )
         "2025-06-07, XAU/USD, Buy, 0.01, 2350.0, 2360.0, 2340.0, 2355.0, Profit, Entry sesuai setup"
     )
