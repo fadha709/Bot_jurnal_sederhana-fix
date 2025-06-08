@@ -32,9 +32,7 @@ def parse_message(text):
 
 Tanggal, Pair, Posisi, Lot, Entry, TP, SL, Close, Hasil, Catatan
 
-    )
-        "2025-06-07, XAU/USD, Buy, 0.01, 2350.0, 2360.0, 2340.0, 2355.0, Profit, Entry sesuai setup"
-    )
+    print("2025-06-07, XAU/USD, Buy, 0.01, 2350.0, 2360.0, 2340.0, 2355.0, Profit, Entry sesuai setup")
 
 # Handler pesan masuk
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
